@@ -1,0 +1,162 @@
+@charset "utf-8";
+.navbar {
+	margin-bottom: 0px;
+	min-height: 100px;
+	background-color: #ffffff;
+}
+#carousel1 {
+	margin-top: 100px;
+}
+.navbar-nav {
+	margin-top: 20px;
+}
+.navbar-brand {
+	padding: 0px;
+}
+#contentext {
+	margin-top: 100px;
+	background-color: #979595;
+}
+#pad {
+	padding-right: 0px;
+
+
+}
+#listmargin {
+	margin-bottom: 0px;
+}
+
+
+linkcolor {
+}
+.col-xs-3.col-md-3 .lis-group .list-group-item.active {
+	background-color: #FFFFFF;
+	color: #000000;
+}
+.colbg {
+	padding-left: 0px;
+	padding-right: 0px;
+
+}
+#aboutext {
+	margin-top: 100px;
+}
+.listbgc {
+	background-color: #EBEBEB;
+}
+.stitle {
+	color: #0000FF;
+	font-family: "微軟正黑體";
+	font-size: 14pt;
+	font-weight: bolder;
+	text-decoration: none;
+}
+#listwh {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+#wh {
+	padding-right: 0px;
+}
+.litext {
+	border-left: 10px solid #FFC32E;
+	font: 14pt/36pt "微軟正黑體";
+	border-top-color: #FFC32E;
+	border-bottom-color: #FFC32E;
+	list-style: url(Mr.Bolo_img/stitle.png);
+	border-right-color: #FFC32E;
+}
+.yul {
+	line-height: 109pt;
+	font-size: 18pt;
+	font-weight: bolder;
+	list-style: url(Mr.Bolo_img/ltitle.png);
+}
+.sTitle {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font: bolder 24pt "微軟正黑體";
+}
+.rMargin {
+	margin-bottom: 50px;
+}
+.yul1 {
+	line-height: 50px;
+	font-weight: bolder;
+	list-style: url(Mr.Bolo_img/ltitle.png);
+	font-size: 18pt;
+}
+.yul2 {
+	font-weight: bolder;
+	font-size: 18pt;
+	list-style: url(Mr.Bolo_img/ltitle.png);
+	line-height: 93px;
+}
+.smenutext {
+	font: 14pt "微軟正黑體";
+}
+.user {
+	margin-top: 300px;
+	margin-bottom: 200px;
+}
+
+
+.box {
+	border-radius: 8px;
+	background-color: #C7C7C7;
+	-webkit-box-shadow: 6px 4px 10px 4px #575757;
+	box-shadow: 6px 4px 10px 4px #575757;
+}
+.acolor td a {
+	color: #337AB7;
+}
+
+
+.well {
+	width: auto;
+	border:none;
+	height:auto;
+	background-color: #E7F2FB
+}
+.qqqq {
+}
+
+.hh {
+	text-align: center;
+	font-weight: bolder;
+
+}
+
+.aaaa {
+	margin-top: 491px;
+}
+.bbb {
+	text-align: center;
+}
+.aa {
+	margin-top: 538px;
+	background-color: #FFFFFF;
+}
+.fff {
+	margin-left: 179px;
+}
+
+.AA {
+	margin-top: 471px;
+	margin-left: 131px;
+}
+.cc {
+	text-align: center;
+	font-size: 35px;
+	font-family: "標楷體";
+}
+.DD {
+	font-family: "微軟正黑體", Helvetica;
+}
+
+
+.BB {
+	width: 900px;
+	height: 600px;
+}
